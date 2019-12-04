@@ -1,6 +1,6 @@
-package com.xxM.controller;
+package com.xxm.controller;
 
-import com.xxM.model.User;
+import com.xxm.model.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -10,9 +10,9 @@ import java.util.*;
 /**
  * 描述
  *
- * @author ljh
+ * @author Mr Liu
  * @version 1.0
- * @package com.itheima.controller *
+ * @package com.xxm.controller *
  * @Date 2019-11-29
  * @since 1.0
  */

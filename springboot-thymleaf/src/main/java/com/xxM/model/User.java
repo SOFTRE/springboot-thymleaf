@@ -1,7 +1,7 @@
-package com.xxM.model;
+package com.xxm.model;
 
 /**
- * @Program: IntelliJ IDEA changgou
+ * @Program: IntelliJ IDEA 
  * @Description: TODO
  * @Author: Mr Liu
  * @Creed: Talk is cheap,show me the code

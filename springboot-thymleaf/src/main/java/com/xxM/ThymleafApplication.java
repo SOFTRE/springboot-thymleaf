@@ -1,4 +1,4 @@
-package com.xxM;
+package com.xxm;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,9 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * 描述
  *
- * @author ljh
+ * @author Mr Liu
  * @version 1.0
- * @package com.xxM *
+ * @package com.xxm *
  * @Date 2019-11-29
  * @since 1.0
  */
